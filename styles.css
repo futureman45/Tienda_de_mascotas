@@ -308,6 +308,14 @@ footer ul li a {
         max-width: 90%;
     }
 
+    .banner {
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: auto;
+    min-height: 280px;
+  }
+
     .beneficio {
         width: 100%;
     }
