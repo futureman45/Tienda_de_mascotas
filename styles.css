@@ -107,13 +107,13 @@ body {
 
 /* BANNER */
 .banner {
-    margin-top: 80px;
+    margin-top: 90px;
     padding: 0;
     text-align: center;
     background-image: url("Img/fondo.svg");
     background-size: cover;
     background-position: center;
-    height: 380px;
+    height: 400px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -379,7 +379,7 @@ footer ul li a {
     }
 }
 
-/* Inicio del CSS adicional para la pagina del gato */
+/* INICIO VISTAS TIPOS DE MASCOTAS*/
 
 /* SECCIÓN DE PRODUCTOS */
 .productos-grid {
@@ -501,6 +501,11 @@ footer ul li a {
     transform: translateY(-5px);
 }
 
+.tarjeta-beneficio p {
+    font-size: 14px;
+    line-height: 1.4;
+}
+
 .tarjeta-beneficio img {
     width: 60px;
     height: 60px;
@@ -518,4 +523,4 @@ footer ul li a {
     line-height: 1.4;
 }
 
-/* FIN del CSS adicional para la pagina del gato */
+/* FIN VISTAS TIPOS DE MASCOTAS*/
